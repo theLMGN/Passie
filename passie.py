@@ -2,7 +2,6 @@ import os, random, time
 
 x = False
 while x == False:
-    os.system ("cls")
     print ("-- Passie --")
     print ("\n")
     print ("1) Create")
@@ -19,7 +18,6 @@ while x == False:
 if selection == "1":
     x = False
     while x == False:
-        os.system ("cls")
         print ("-- Passie --")
         print ("\n")
         print ("To create your new password, we will use the two step method. To do this we will use a KEY.\nA key can be anything memorable but it is recommended you use a combination of special characters,\nletters and numbers.")
@@ -40,7 +38,6 @@ if selection == "1":
 
     x = False
     while x == False:
-        os.system ("cls")
         print ("-- Passie --")
         print ("\n")
         print ("It's time to input the name of the service you intend to create a password for!")
@@ -91,7 +88,6 @@ if selection == "1":
 
     x = False
     while x == False:
-        os.system ("cls")
         print ("-- Passie --")
         print ("\n") 
         print ("According to the algorithm, your generated password is as follows;\n")
@@ -112,7 +108,6 @@ if selection == "1":
 elif selection == "2":
     x = False
     while x == False:
-        os.system ("cls")
         print ("-- Passie --")
         print ("\n")
         print ("Passie is a password generator based upon the 'Fletch' method.")
