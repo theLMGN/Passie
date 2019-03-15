@@ -13,10 +13,10 @@ EX: KEY=(! = random char, Linux is good but Windows is greater), SERVICE=(Google
 
 There are multiple advantages to using this method of creating passwords. These include the following;
 
-* Every password per website will be unique.
-* Easy to remember.
-* Hard to break.
-* Records are saved.
+* Every password per website will be unique, with differences that any good cyber security expert should pick up on.
+* Easy to remember, if you're a password manager.
+* Hard to break, if you're breaking it on a Casio 83GT Calculator.
+* Records are saved, in memory for less than a second.
 
 Also, this program was created to demonstrate how easy it is to use this method as most people I have tried to explain this to in the past have found it hard to understand. Now, the process is explained, automated and saved all for you.
 
